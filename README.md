@@ -1,1 +1,1 @@
-https://vsfta.github.io/rsschool-cv/cv
+https://vsfta.github.io/rsschool-cv/
